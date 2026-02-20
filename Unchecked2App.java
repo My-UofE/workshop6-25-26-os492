@@ -14,7 +14,7 @@ public class Unchecked2App{
             System.out.println("### Exception message: " + e.getMessage());
         }
 
-        System.out.println("### Exit main()!");
+        System.out.println("### Exit main()!"); 
     }
 
     static void methodA(String s1){
